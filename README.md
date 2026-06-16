@@ -46,10 +46,11 @@ Uses environment variables to securely manage API keys.
 ## 🛠 Tech Stack
 
 ### Frontend
+- Next.js
 - React.js
 - Tailwind CSS
 - Vite
-- JavaScript
+- Typescript
 
 ### Backend
 - Node.js
